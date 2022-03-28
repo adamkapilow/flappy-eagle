@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2df777c623f5444d6a406833de910bba
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pipePrefab: {fileID: 7250862591451650791, guid: 04a685467907f43de95c3746fe41c7e4, type: 3}
+  - playerPrefab: {fileID: 2092766503609591803, guid: b205909cc6ed44b5f85b51660b233255, type: 3}
+  - ScoreText: {instanceID: 0}
+  - panelPlay: {fileID: 4032365242326782945, guid: d98fa1f7c0a8843c4b91f239c56f17aa, type: 3}
+  - panelMenu: {fileID: 4755524795637298622, guid: 6ba40d4d7d3cb4295a1c52fc0dacc99b, type: 3}
+  - panelDeath: {fileID: 2539083807576584777, guid: 519812569c7d848f79a5b8539669bf53, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
